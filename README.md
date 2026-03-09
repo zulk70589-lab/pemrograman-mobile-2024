@@ -1,7 +1,4 @@
 # pemrograman-mobile-2024
-# Praktikum 02 – Dasar Pemrograman Dart I
-
-## Identitas Mahasiswa
 - Nama        : [Zulkifli]
 - NIM         : [H0724515]
 - Prodi       : Pendidikan Teknologi Informasi
